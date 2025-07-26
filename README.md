@@ -59,7 +59,7 @@ Welcome to my HR Analytics Dashboard project! This dashboard provides deep insig
 I’m **Divya Dhumal**, a budding data analyst learning to communicate with data.  
 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/divya_dhumal/)
+ 
 - [GitHub](https://github.com/divyadhumal)
 
 ---
