@@ -47,6 +47,14 @@ Welcome to my HR Analytics Dashboard project! This dashboard provides deep insig
 
 ---
 
+## 🚀 How to Use
+
+1. Download the `.twbx` file.
+2. Open in Tableau Public Desktop.
+3. Interact with filters like education and gender.
+4. Observe visual KPIs, charts, and trends.
+
+
 ## 🛠 Tools Used
 
 - **Tool:** Tableau Public Desktop
