@@ -15,7 +15,7 @@ This repo contains my dashboards built with **Tableau & Python**, showcasing ins
 - Performance analysis  
 - Workforce trends  
 
-🔗 https://github.com/divyadhumal/Tableau_Dashboards/tree/main/HR%20DASHBOARD  
+🔗 Tableau Public :https://public.tableau.com/app/profile/divya.dhumal/viz/HRANALYTICSDASHBOARD_17551910852060/HRANALYTICSDASHBOARD
 
 ---
 
@@ -26,7 +26,7 @@ This repo contains my dashboards built with **Tableau & Python**, showcasing ins
 - Match trends & win analysis  
 - Team-wise statistics  
 
-🔗 
+🔗 Tableau Public :https://public.tableau.com/app/profile/divya.dhumal/viz/IPLDASHBOARD_17551907775780/IPLANALYSIS
 
 ---
 
