@@ -84,4 +84,4 @@ This project aims to answer these questions with a **Tableau dashboard**.
 ---
 
 ## 🤝 Connect
-If you’re interested in data storytelling or dashboard design, let’s connect on [LinkedIn](http://linkdin.com/in/divyadhumal).  
+If you’re interested in data storytelling or dashboard design, let’s connect on [LinkedIn](https://www.linkdin.com/in/divya-dhumal).  
