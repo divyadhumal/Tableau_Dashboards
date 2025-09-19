@@ -78,7 +78,7 @@ This project aims to answer these questions with a **Tableau dashboard**.
 ---
 
 ## 🔗 Links
-- 📊 LinkedIn Post: [Add link here]  
+- 📊 LinkedIn Post: [divya-dhumal ](https://www.linkedin.com/posts/divya-dhumal_dataanalytics-tableau-datavisualization-activity-7373185048725901312-TPmg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvvtQgBDFroBYTc_aEVnOXSvMhLqJP2Om4)
 - 📂 Dataset Source: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
 
 ---
